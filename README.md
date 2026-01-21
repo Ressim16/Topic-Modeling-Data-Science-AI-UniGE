@@ -22,6 +22,8 @@
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+- [Acknowledgments](acknowledgments)
+- [References](references)
 
 ---
 
@@ -52,21 +54,21 @@ This project applies **advanced topic modeling techniques** to analyze scientifi
 ```
 dairy-cattle-research-topic-modeling/
 │
-├── data/                                    # Data directory
+├── data/                                   # Data directory
 │   ├── cleaned_combined_dataset.csv        # Main cleaned dataset
 │   ├── potential_duplicates.csv            # Identified potential duplicates
 │   ├── pubmed_5000.csv                     # PubMed raw data sample
 │   └── scopus_5000.csv                     # Scopus raw data sample
 │
-├── output/                                  # Output directory
+├── output/                                 # Output directory
 │   ├── vectors/                            # Embedding vectors
 │   ├── figures/                            # Generated visualizations
 │   ├── llm/                                # LLM-generated topic labels
 │   └── modeling/                           # Saved models and results
 │
 ├── Rapport_Unige_Data_Science.ipynb        # Main analysis notebook
-├── README.md                                # This file
-├── requirements.txt                         # Python dependencies
+├── README.md                               # This file
+├── requirements.txt                        # Python dependencies
 └── .gitignore                              # Git ignore file
 ```
 
