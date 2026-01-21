@@ -1,0 +1,383 @@
+{
+  "0": {
+    "refined_title": "Improved Dairy Cattle Health through Diagnostic Techniques and Genomic Analysis",
+    "key_words": [
+      "dairy cattle",
+      "diagnostic test",
+      "genomic analysis",
+      "mastitis",
+      "health determinants",
+      "determinants of health"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Determination of mastitis using diagnostic tests",
+      "Genomic analysis of milk yield and quality",
+      "Identification of mastitis subclinical cases",
+      "Evaluation of mastitis prevalence and distribution",
+      "Optimization of milking and milking practices"
+    ]
+  },
+  "1": {
+    "refined_title": "Assessing Water Quality in Dairy Cattle Production Systems",
+    "key_words": [
+      "water",
+      "milk",
+      "cow",
+      "dairy",
+      "microbial",
+      "bacteria",
+      "manure",
+      "raw"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Water quality is a critical factor in dairy cattle production, as it affects milk quality and animal health.",
+      "Dairy cattle are susceptible to various microbial and bacterial infections, which can be exacerbated by poor water quality.",
+      "Manure management is essential in dairy systems to prevent contamination and maintain water quality.",
+      "Raw milk is a significant source of bacterial contamination in dairy cattle, and proper handling and processing are crucial.",
+      "Dairy cattle are exposed to various environmental factors, including water quality, which can impact their health and productivity."
+    ]
+  },
+  "2": {
+    "refined_title": "Association between Dietary Patterns and Bone Health in Dairy Cattle",
+    "key_words": [
+      "bone",
+      "health",
+      "dairy",
+      "cattle",
+      "patterns",
+      "nutrition"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Nutritional factors",
+      "Dietary patterns",
+      "Bone health",
+      "Dairy cattle",
+      "Nutritional adequacy"
+    ]
+  },
+  "3": {
+    "refined_title": "Genetic Correlations in Dairy Cattle: Impact on Productivity and Traits",
+    "key_words": [
+      "genetic correlations",
+      "dairy cattle",
+      "traits",
+      "genomic",
+      "breeding",
+      "yield"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Genetic factors",
+      "Heritability of traits",
+      "Breeding practices",
+      "Selection methods",
+      "Somatic cell count"
+    ]
+  },
+  "4": {
+    "refined_title": "Effects of Supplementation on Milk Yield in Dairy Cows",
+    "key_words": [
+      "supplementation",
+      "milk yield",
+      "dairy cows",
+      "fed",
+      "yield",
+      "fat"
+    ],
+    "confidence_score": 95,
+    "doh_factors": [
+      "Supplementation with a concentrated glycerol product delivered by an automated milking system",
+      "A randomized controlled trial with 389 dairy cows",
+      "Expected calving rate of 1.2",
+      "Glycerol group vs. control group",
+      "Feed efficiency and milk yield"
+    ]
+  },
+  "5": {
+    "refined_title": "The Impact of Brucellosis on Dairy Cattle Health in Developing Countries",
+    "key_words": [
+      "Brucellosis",
+      "Dairy Cattle",
+      "Public Health",
+      "Zoonotic Disease",
+      "Livestock Health",
+      "Economic Losses"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Economic Losses due to Disease Outbreaks",
+      "Transmission of the Disease through Direct Contact",
+      "Importance of Vaccination in Disease Control",
+      "Risk of Zoonotic Transmission to Humans",
+      "Effect of Disease on Livestock Productivity and Quality"
+    ]
+  },
+  "6": {
+    "refined_title": "Understanding the Impact of Grazing Systems on Soil Health and Crop Yield for Dairy Cattle",
+    "key_words": [
+      "soil health",
+      "crop yield",
+      "dairy cattle",
+      "grazing systems",
+      "manure",
+      "fertilizer"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Manure application",
+      "Fertilizer use",
+      "Crop selection and management",
+      "Soil structure and fertility",
+      "Climate and weather patterns"
+    ]
+  },
+  "7": {
+    "refined_title": "Antimicrobial Resistance in Dairy Cattle: A Study on the Impact of Public Health and Environmental Factors",
+    "key_words": [
+      "antimicrobial resistance",
+      "dairy cattle",
+      "public health",
+      "environmental factors",
+      "mrsa",
+      "antibiotic resistance"
+    ],
+    "confidence_score": 95,
+    "doh_factors": [
+      "Public Health Factors: The role of antimicrobial resistance in dairy cattle is a growing concern, as it can lead to increased morbidity and mortality in the animal population.",
+      "Environmental Factors: The environment plays a crucial role in the spread of antimicrobial resistance in dairy cattle, with factors such as poor sanitation and hygiene practices contributing to the development of resistant bacteria.",
+      "Mrsa and Antibiotic Resistance: Mrsa (MRSA) is a significant concern in dairy cattle, as it can lead to increased antibiotic resistance and decreased treatment efficacy.",
+      "Antibiotic Resistance: The overuse and misuse of antibiotics in dairy cattle farming has contributed to the development of antibiotic-resistant bacteria, making it challenging to treat infections effectively.",
+      "Dairy Cattle Farming: The dairy cattle farming industry is a significant contributor to antimicrobial resistance, with factors such as poor sanitation and hygiene practices contributing to the development of resistant bacteria.",
+      "Global Impact: The global impact of antimicrobial resistance in dairy cattle is significant, with the World Health Organization (WHO) estimating that 10 million people die each year due to antimicrobial resistance."
+    ]
+  },
+  "8": {
+    "refined_title": "Dairy Cattle Probiotics and Functional Foods",
+    "key_words": [
+      "probiotics",
+      "milk",
+      "dairy",
+      "functional",
+      "fermented",
+      "yogurt",
+      "lactobacillus"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Dairy cattle health benefits",
+      "Probiotics in dairy products",
+      "Functional foods for dairy cattle",
+      "Dairy products as probiotics",
+      "Lactobacillus in dairy fermentation"
+    ]
+  },
+  "9": {
+    "refined_title": "Impact of Veterinary Practices on Dairy Cattle Welfare and Health",
+    "key_words": [
+      "veterinary",
+      "practices",
+      "dairy cattle",
+      "welfare",
+      "health"
+    ],
+    "confidence_score": 95,
+    "doh_factors": [
+      "Veterinary practices directly impact dairy cattle welfare",
+      "Poor veterinary practices can lead to increased disease and injury risks",
+      "Effective management of dairy cattle is crucial for optimal health",
+      "Training of veterinarians and dairy farmers is essential for improving practices",
+      "Implementation of good husbandry practices can reduce the risk of disease"
+    ]
+  },
+  "10": {
+    "refined_title": "Assessing Dairy Cattle Milk Concentration Exposure to Persistent Organic Pollutants (POPs) and Mycotoxins",
+    "key_words": [
+      "milk",
+      "exposure",
+      "detection",
+      "contamination",
+      "milk samples",
+      "concentration",
+      "limit"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Dairy cattle milk concentration is a critical indicator of exposure to persistent organic pollutants (POPs) and mycotoxins",
+      "POPs, including polychlorinated biphenyls (PCBs) and polychlorinated biphenyls (PCBs), can contaminate dairy cattle milk",
+      "Mycotoxins, such as aflatoxin and ochratoxin, can also affect dairy cattle milk quality and safety",
+      "Dairy cattle milk sampling and analysis are essential for detecting exposure to POPs and mycotoxins",
+      "Limiting milk intake and using proper dairy farming practices can help reduce exposure to POPs and mycotoxins"
+    ]
+  },
+  "11": {
+    "refined_title": "Veterinary Public Health and Dairy Cattle Research: Understanding Health Determinants for Dairy Cattle",
+    "key_words": [
+      "dairy cattle",
+      "public health",
+      "research",
+      "health determinants",
+      "dairy cattle health"
+    ],
+    "confidence_score": 85,
+    "doh_factors": [
+      "Dairy cattle health is influenced by various factors including nutrition, genetics, and physical condition",
+      "Nutrition plays a crucial role in maintaining dairy cattle health, with adequate protein and energy levels essential for muscle growth and strength",
+      "Genetic factors can impact dairy cattle's susceptibility to certain diseases and conditions",
+      "Physical condition, including muscle mass and strength, is vital for dairy cattle's overall health and productivity",
+      "Environmental factors, such as climate and management practices, can impact dairy cattle's health and well-being"
+    ]
+  },
+  "12": {
+    "refined_title": "Understanding Dairy Cattle Allergy in Infants and Mothers",
+    "key_words": [
+      "infants",
+      "breastfeeding",
+      "allergy",
+      "milk",
+      "mothers",
+      "children"
+    ],
+    "confidence_score": 95,
+    "doh_factors": [
+      "Demographic factors",
+      "Psychosocial factors",
+      "Nutritional factors",
+      "Immunological factors",
+      "Environmental factors"
+    ]
+  },
+  "13": {
+    "refined_title": "Assessing Dietary Intakes and Health Determinants of Dairy Cattle",
+    "key_words": [
+      "dairy cattle",
+      "nutrition",
+      "health determinants",
+      "food groups",
+      "intakes",
+      "recommendations"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Nutritional requirements for dairy cattle",
+      "Factors influencing dietary intake",
+      "Importance of food groups for dairy cattle",
+      "Recommendations for dairy cattle nutrition",
+      "Linking dairy cattle health to nutritional factors"
+    ]
+  },
+  "14": {
+    "refined_title": "Impact of Antibiotic Use on Dairy Calf Health and Growth",
+    "key_words": [
+      "antibiotic",
+      "dairy calves",
+      "growth",
+      "health",
+      "colostrum",
+      "feeding"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Antibiotic use can lead to antibiotic resistance",
+      "Poor feeding practices can negatively impact calf growth",
+      "Inadequate colostrum nutrition affects calf health",
+      "Inadequate feeding practices can result in poor growth",
+      "Colostrum quality and availability can impact calf growth and health"
+    ]
+  },
+  "15": {
+    "refined_title": "Understanding the Impact of Globalization on Dairy Cattle Health",
+    "key_words": [
+      "dairy cattle",
+      "health determinants",
+      "globalization",
+      "food systems",
+      "sustainability"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Globalization has led to increased demand for dairy products, resulting in higher pressure on dairy cattle to produce meat and dairy",
+      "Meat and dairy consumption patterns have changed significantly in recent years, with a shift towards plant-based diets",
+      "The increasing prevalence of chronic diseases in humans, such as heart disease and type 2 diabetes, has raised concerns about the health of dairy cattle",
+      "Dairy cattle production systems are facing pressure due to climate change, which is impacting the quality and quantity of feed",
+      "The growing demand for sustainable and environmentally friendly food options has led to increased interest in plant-based dairy alternatives"
+    ]
+  },
+  "16": {
+    "refined_title": "Understanding and Managing Mastitis in Dairy Cattle",
+    "key_words": [
+      "mastitis",
+      "dairy cattle",
+      "epithelial cells",
+      "mastitis pathway",
+      "inflammation",
+      "lpsinduced"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Understanding mastitis and its impact on dairy cattle health",
+      "Identifying the mastitis pathway and its consequences",
+      "Evaluating the role of epithelial cells in mastitis",
+      "Understanding the inflammatory response in mastitis",
+      "Assessing the effectiveness of lipopolysaccharide-induced mastitis"
+    ]
+  },
+  "17": {
+    "refined_title": "The Impact of Fishing Gear Entanglements on Marine Life and Dairy Cattle",
+    "key_words": [
+      "fishing gear entanglements",
+      "marine life",
+      "dairy cattle",
+      "conservation",
+      "population decline",
+      "health determinants"
+    ],
+    "confidence_score": 95,
+    "doh_factors": [
+      "Conservation",
+      "Population decline",
+      "Health determinants",
+      "Marine life",
+      "Dairy cattle"
+    ]
+  },
+  "18": {
+    "refined_title": "Monitoring Dairy Cattle Behavior for Health and Productivity",
+    "key_words": [
+      "dairy cattle",
+      "behavior",
+      "health",
+      "productivity",
+      "monitoring"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Monitoring behavior can improve animal welfare and increase productivity.",
+      "Traditional contact devices may raise animal welfare concerns.",
+      "Deep learning provides robust support for non-contact rumination behavior recognition.",
+      "Combining different data modalities can complement performance improvement.",
+      "The proposed system can monitor farm animals using IoT equipment and cloud platforms."
+    ]
+  },
+  "19": {
+    "refined_title": "Characterizing Dietary Patterns in Children Aged 1-10 Years",
+    "key_words": [
+      "dairy",
+      "cattle",
+      "nutrition",
+      "health",
+      "children",
+      "patterns"
+    ],
+    "confidence_score": 90,
+    "doh_factors": [
+      "Nutritional status and dietary patterns can influence children's growth and development.",
+      "Dietary patterns can be influenced by socio-economic factors and access to food.",
+      "Children's dietary patterns can be affected by cultural and environmental factors.",
+      "Food security and nutrition can impact children's health outcomes.",
+      "Dietary patterns can be used to identify health risk factors in children."
+    ]
+  }
+}

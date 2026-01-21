@@ -1,0 +1,13 @@
+# Data files
+data/*.csv
+
+# Model files
+*.pkl
+*.npy
+
+# Vectors
+output/vectors/abstract_embeddings.npy
+
+# Modeling outputs
+output/modeling/*.npy
+output/modeling/*.pkl
